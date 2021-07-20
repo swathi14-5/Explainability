@@ -1,0 +1,1 @@
+Refer to the pdf file for the tasks that are present in the project
